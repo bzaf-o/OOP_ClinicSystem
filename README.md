@@ -1,6 +1,6 @@
 # About
 
-This repo contains the project files for the Sep 2026 TGB1103 Object Oriented Programming assignment. As of 25/10/2026, the files uploaded are relevant to the Draft 1 part of the assignment.
+This repo contains the project files for the Sep 2026 TGB1103 Object Oriented Programming assignment. As of 25/10/2026, the files uploaded are relevant to the Draft 1 part of the assignment. As of 15/11/2026, the repo has been split into two branches: v1 contains files relevant to the Draft 1 part of the assignment and v2 is relevant to the GUI part of the assignment.
 
 We have decided to create a system of for the daily tasks and procedures carried out at a clinic. There are 7 files, each corresponding to a class within the system:
 1. ClinicSystem
