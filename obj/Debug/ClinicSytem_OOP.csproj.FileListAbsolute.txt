@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSytem_OOP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSytem_OOP.Properties.Resources.resources
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSytem_OOP.csproj.GenerateResource.cache
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSytem_OOP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSystem.Appointment.resources
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSystem.Doctor.resources
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSystem.InventoryItem.resources
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSystem.Invoice.resources
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSystem.MedicalRecordForm.resources
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSystem.PatientForm.resources
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\bin\Debug\ClinicSytem_OOP.exe.config
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\bin\Debug\ClinicSytem_OOP.exe
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\bin\Debug\ClinicSytem_OOP.pdb
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSytem_OOP.exe
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSytem_OOP.pdb
+C:\Users\user\Desktop\garreg mach\uni\1_3\OOP\ClinicSytem_OOP\obj\Debug\ClinicSystem.PatientCareForm.resources
